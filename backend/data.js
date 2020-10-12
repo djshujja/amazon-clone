@@ -8,6 +8,7 @@ const data = {
       price: 60,
       rating: 4.5,
       numReviews: 10,
+      countInStock: 7,
     },
     {
       _id: "2",
@@ -17,6 +18,7 @@ const data = {
       price: 70,
       rating: 3.5,
       numReviews: 32,
+      countInStock: 5,
     },
   ],
 };
